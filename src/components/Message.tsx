@@ -11,10 +11,11 @@ const Message = () => {
         className="max-w-2xl bg-white/80 backdrop-blur-sm p-8 rounded-xl shadow-xl text-center"
       >
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Happiest Birthday Asmitaaa!!!
-Lots of good wishes to youuu on your special day..
-Even though we have met recently but still we know many things about each other. Our friendship just started and i hope we will be making some great memories together but ami toh kotha e bolina ehehehe 🤪 I'm starting this new year (24/11/2025)with a new friend as you and i hope our friendship will last forever.
-And I wish in future tui jeno hill side e permenently shift kore jas as your hobby!!!!!!
+          Happiest Birthday Shreyasi!!🎂
+So actually this is the first tor bday te ami tor sathe tor pase achi.Haa hoyto ami kono gift dite parbona toke im very sorry for that but ei ta promise korte pari that your upma will always be with you at your side at your lowest he will always be there.. And i hope we will be making some great memories together 
+Ar ha jai koris ar poris na jeno sobsomoy
+Always stay blessed 💕 and bhalo thakis sobsomoy 
+~Yours Upma
         </p>
       </motion.div>
     </div>
@@ -23,3 +24,4 @@ And I wish in future tui jeno hill side e permenently shift kore jas as your hob
 
 
 export default Message;
+
